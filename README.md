@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">Aspiring Software Professional 🚀</h3>
-<img align="right"alt="coding" width="400" src=" https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently exploring **various fields in Data Science.**
 
-- 👯 I’m looking to collaborate with [Top MNCs who can extract my inner potential](to be a valuable asset for the society😊)
+- 👯 I’m looking to collaborate with Top MNCs who can extract my inner potential to be a valuable asset for the society😊
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rishi27-F](https://github.com/Rishi27-F)
 

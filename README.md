@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rishi27-F/Rishi27-F/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">Aspiring Data Scientist 🚀</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/Rishi27-F/Rishi27-F/blob/main/rishitgit.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/Rishithahere">
 
 - 🌱 I’m currently exploring **various fields in Data Science.**
 

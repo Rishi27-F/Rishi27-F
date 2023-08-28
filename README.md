@@ -1,13 +1,13 @@
 ![logo](https://github.com/Rishi27-F/Rishi27-F/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Rishitha</h1>
 <h3 align="center">Aspiring Data Scientist 🚀</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/Rishithahere">
+<img align="right" alt="coding" width="300" src="https://github.com/Rishithahere/Rishithahere/blob/main/rishitgit.gif">
 
 - 🌱 I’m currently exploring **various fields in Data Science.**
 
 - 👯 I’m looking to collaborate with Top MNCs who can extract my inner potential to be a valuable asset for the society😊
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rishi27-F](https://github.com/Rishi27-F)
+- 👨‍💻 All of my projects are available at https://github.com/Rishithahere
 
 - 📫 How to reach me **https://www.linkedin.com/in/rishitha-koppula-37629a287/🔵**
 
